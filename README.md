@@ -25,3 +25,6 @@ The data for the analysis has been scraped using twitter API and the tweets with
 5. #HawaiianAirlines OR #HawaiianAirways 
 6. #UnitedAirlines 
 7. #AmericanAirlines OR #AmericanAir
+
+RESULTS:
+![image](images/Unknown.png)
